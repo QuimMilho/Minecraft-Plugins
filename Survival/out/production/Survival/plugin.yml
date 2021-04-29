@@ -1,0 +1,30 @@
+name: Survival
+main: net.quimmilho.plugin.survival.Core
+version: 1.4:000048
+authors: [QuimMilho, Twice_Games]
+website: www.quimmilho.net
+prefix: Survival
+commands:
+  home:
+    aliases: [h]
+  sethome:
+    aliases: [sh]
+  delhome:
+    aliases: [dh]
+  listhomes:
+    aliases: [lh]
+  tpa:
+  tpaccept:
+    aliases: [tpaa]
+  tpadeny:
+    aliases: [tpad]
+  tpacancel:
+    aliases: [tpac]
+  vanish:
+    aliases: [v, a, admin]
+  setRole:
+    aliases: [sr]
+  fly:
+    aliases: [f]
+  hub:
+    aliases: [lobby]
