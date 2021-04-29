@@ -1,0 +1,15 @@
+name: SkyWars
+main: net.quimmilho.plugin.lobby.Core
+version: 1.2:000025
+authors: [QuimMilho, Twice_Games]
+website: www.quimmilho.net
+prefix: SkyWars
+commands:
+  setrole:
+  fly:
+    aliases: [f]
+  break:
+  hub:
+    aliases: [lobby]
+
+
