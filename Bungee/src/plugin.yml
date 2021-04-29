@@ -1,0 +1,4 @@
+main: net.quimmilho.plugins.bungee.Core
+name: Bungee
+version: 0.1.000014
+authors: [QuimMilho, Twice_Games]
