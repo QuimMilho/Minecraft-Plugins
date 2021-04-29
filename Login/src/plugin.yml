@@ -1,0 +1,6 @@
+name: Login
+version: 1.0.000040
+main: me.quimmilho.plugins.login.Core
+commands:
+  login:
+  register:
