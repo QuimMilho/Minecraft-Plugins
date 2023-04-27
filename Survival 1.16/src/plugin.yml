@@ -1,0 +1,6 @@
+name: Survival
+version: 0.1-B000007
+main: me.quimmilho.plugins.survival.Core
+commands:
+  money:
+  pay:
